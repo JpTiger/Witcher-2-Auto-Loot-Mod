@@ -1,7 +1,7 @@
 ///////////////////////////////////
 // 		  CONTAINER CLASS        //
 ///////////////////////////////////
-//modifications by QuietusPlus
+//modifications by QuietusPlus, slight additional modifications by JPTiger
 // returns the maximum load (max weight that player can carry)
 import function GetMaxWeight() : float;
 // returns the current player load (the sum of all carried items weights)
